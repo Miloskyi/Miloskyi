@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Camilo%20Gomez&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Camilo%20&fontSize=40&fontColor=ffffff"/>
 </p>
 
 # 👋 Hola, soy Camilo Gomez
@@ -68,7 +68,6 @@ Actualmente me encuentro en preparación para la certificación **AWS**, con el 
 
 ## 📈 Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miloskyi&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miloskyi&layout=compact&theme=dark)
 
